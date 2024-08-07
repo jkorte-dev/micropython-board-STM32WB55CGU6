@@ -1,0 +1,1 @@
+STM32_Programmer_CLI -c port=usb1 -fwupgrade v1.13.0/stm32wb5x_BLE_Stack_full_fw.bin 0x080C7000 firstinstall=1
